@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Brenda 👋</h1>
+
 <h3 align="center">👩🏽‍🏫 Profesora de matemática y estudiante de Desarrollo Web 👩🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brennsel&label=Profile%20views&color=0e75b6&style=flat" alt="brennsel" /> </p>
