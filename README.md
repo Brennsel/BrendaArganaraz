@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente aprendiendo **Java, GIT**
 
-- 👩🏻‍💻 Estudiando para ser [Programadora Fullstack](https://eggcooperation.com)
+- 👩🏻‍💻 Estudiando [Programación Fullstack](https://eggcooperation.com), [Desarrollo de Aplicaciones Moviles](https://www.ucm.es) y [Ciberseguridad](https://www.incibe.es)
 
 - 👥 Participando en **Proyecto Web**
 
