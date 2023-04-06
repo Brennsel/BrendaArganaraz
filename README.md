@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brennsel&label=Profile%20views&color=0e75b6&style=flat" alt="brennsel" /> </p>
 
-- 🌱 Actualmente aprendiendo **Java, GIT**
 
 - 👩🏻‍💻 Estudiando [Programación Fullstack](https://eggcooperation.com), [Desarrollo de Aplicaciones Moviles](https://www.ucm.es) y [Ciberseguridad](https://www.incibe.es)
 
