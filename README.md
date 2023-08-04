@@ -1,5 +1,5 @@
 
-<h3 align="center">👩🏽‍🏫 Profesora de matemática y estudiante de desarrollo web 👩🏻‍💻</h3>
+<h2 align="center">👩🏽‍🏫 Profesora de matemática y estudiante de desarrollo web 👩🏻‍💻</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brennsel&label=Profile%20views&color=0e75b6&style=flat" alt="brennsel" /> </p>
 
@@ -9,7 +9,7 @@
 • 📫 Como contactarme **brennsell@gmail.com**
 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h2 align="left">Lenguajes y herramientas:</h2>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> 
