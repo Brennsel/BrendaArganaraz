@@ -20,3 +20,4 @@
 <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="git" width="80" height="80"/> </a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="git" width="90" height="65"/> </a> 
 <a href="https://jquery.com" target="_black" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="git" width="100" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_black" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="git" width="60" height="50"/> </a>
